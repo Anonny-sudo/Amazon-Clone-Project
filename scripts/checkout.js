@@ -4,7 +4,6 @@ import { renderOrderSummary } from "./checkout/orderSummary.js";
 import { renderPaymentSummary } from "./checkout/paymentSummary.js";
 
 // import '.././data/cart-oop.js'  // OOP's me use kiya hai
-// import '../data/backend-practice.js' //backend me use kiya gaya hai
 
 
 /* async function loadPage(){
