@@ -54,14 +54,14 @@ class Clothing extends Product{
   }
 }
 
-/* function loadProductsFetch(){
+export function loadProductsFetch(){
   fetch('https://supersimplebackend.dev/products').then((response) => {
     return response.json();
   }).then((productsData) => {
     console.log(productsData);
   })
 };
-loadProductsFetch(); */
+loadProductsFetch();
 
 /* export let products = [];
 
